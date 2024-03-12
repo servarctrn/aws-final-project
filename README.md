@@ -12,4 +12,5 @@
 
 # for running application
 - sudo python3 Empapp.py
+- we are testing and practicing how github work. 
 # this is how we upate files in vscode editor
